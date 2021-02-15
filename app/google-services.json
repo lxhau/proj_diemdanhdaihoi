@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007889556",
+    "firebase_url": "https://diemdanhdaibieu.firebaseio.com",
+    "project_id": "diemdanhdaibieu",
+    "storage_bucket": "diemdanhdaibieu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007889556:android:c512ed80c7366c54ed9881",
+        "android_client_info": {
+          "package_name": "com.example.appdiemdanhdh_hsv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007889556-4hni9p6vs83q5qcn0ao1ifbf4gpgad69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbiMl6w-cxwOFBurn2l3MyQyxi4kWc1P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007889556-4hni9p6vs83q5qcn0ao1ifbf4gpgad69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
